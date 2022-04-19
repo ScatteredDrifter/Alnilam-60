@@ -40,7 +40,7 @@ D411413,BAV70_Small,SOT-23,-37.4,-64.05,180,bottom
 F0,Polyfuse,Fuse_1206_3216Metric,-24.25,-13.45,-90,bottom
 G***,LOGO,qmk,-105.269694,-81.113251,180,bottom
 G***,LOGO,vial_logo,-115.4656,-87.838229,180,bottom
-J1,USB_C_Receptacle_USB2.0,USB_C_Receptacle_HRO_TYPE-C-31-M-12,-18.565,-3.035,0,bottom
+J1,USB_C_Receptacle_USB2.0,USB_C_Receptacle_HRO_TYPE-C-31-M-12,-18.4,-3.035,0,bottom
 J2,Conn_01x04,Aio3_jst,-14.15,-18.2,-90,bottom
 R0,10k,R_0805_2012Metric,-25,-49.25,135,bottom
 R1,22,R_0805_2012Metric,-19,-20.35,-90,bottom
