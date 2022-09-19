@@ -4,7 +4,7 @@ typical plain-c with the twist of supporting Alps and a weird 8u, flipped Iso-En
 --- 
 ### Current Status: Prototypes arrived; fully tested and working 
 
-- Case Design in Progress // not tested 
+- Pcbs are working and protos have been tested
 
 ---
 
