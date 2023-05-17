@@ -1,10 +1,11 @@
 # Alnilam-60
 
 typical plain-c with the twist of supporting Alps and a weird 8u, flipped Iso-Enter layout The outlines and mounting hole positions were taken from the [bakeneko60](https://github.com/kkatano/bakeneko-60) and [Plain-C](https://github.com/evyd13/plain60-c) 
---- 
-### Current Status: Prototypes arrived; fully tested and working 
 
-- Case Design in Progress // not tested 
+--- 
+### Current Status: 
+- works well
+- firmware now uploaded as well ( took me long enough ) 
 
 ---
 
